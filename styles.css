@@ -1,0 +1,21 @@
+img {
+    width: 50%;
+    height: 300px
+}
+
+body {
+    text-align: center;
+    font-family: "ariel";
+    color: purple;
+    background: azure;
+}
+
+header {
+    width: 100%;
+    background: pink;
+    margin-top: 0;
+}
+div {
+    width: 100%;
+    display: flex;
+}
